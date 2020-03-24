@@ -1,0 +1,19 @@
+ul {
+    display: inline-flex;
+    width: 100%;
+    margin-top: 5px;
+    border: 1px solidrgba(0, 0, 0, 0.788);
+    list-style:none ;    
+    margin: 0;
+    padding: 0;
+    background-color:rgba(0, 0, 0, 0.788);
+}
+li a {
+ color: white;
+    margin: 0;
+}
+a{
+    font-size: large;
+    padding-left: 20px;
+    text-shadow: 0px 0px 3px white;
+}

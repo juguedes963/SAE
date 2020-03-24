@@ -1,0 +1,18 @@
+
+.container{
+    width: 100%;
+    display: flex;
+    float: left;
+}
+.left,.right{
+    border:  1px solid rgba(0, 0, 0, 0.788);
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.788);
+    color: white;
+
+}
+.left h1,.right h1 {
+  text-align: center;
+  font-size: 35px;
+  text-shadow: 0px 0px 3px white;
+}
