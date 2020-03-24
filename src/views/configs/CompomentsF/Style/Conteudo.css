@@ -6,9 +6,9 @@
 
 }
 .left,.right{
-    border:  1px solid rgba(0, 0, 0, 0.788);
+    border:  1px solid rgba(0, 0, 0, 0.788)!important;
     width: 50%;
-    background-color: rgba(0, 0, 0, 0.788);
+    background-color: rgba(0, 0, 0, 0.788)!important;
     color: white;
 
 }
@@ -31,6 +31,7 @@
   font-size: 70%;
   list-style:none ;  
   color: rgb(234, 230, 243);
+  text-decoration: none;
 }
 .right  .container-right .table-2 form input{
   border-radius: 8px;
